@@ -4,7 +4,7 @@
 
 > Explorer
 
-Project has been build in the Next Week Level event from Rocketseat.
+The project was built on Rocketseat's Next Week Level event.
 
 [🔗 Click here to preview](https://gw-rodrigues.github.io/nlw-9-esports-explorer/)
 
